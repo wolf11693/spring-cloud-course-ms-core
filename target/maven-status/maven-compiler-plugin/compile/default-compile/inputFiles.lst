@@ -1,1 +1,4 @@
+/home/roberto/Scrivania/dev/workspace-spring_cloud/ms-core/src/main/java/com/xantrix/webapp/exception/UpdateException.java
 /home/roberto/Scrivania/dev/workspace-spring_cloud/ms-core/src/main/java/com/xantrix/webapp/Application.java
+/home/roberto/Scrivania/dev/workspace-spring_cloud/ms-core/src/main/java/com/xantrix/webapp/exception/SaveException.java
+/home/roberto/Scrivania/dev/workspace-spring_cloud/ms-core/src/main/java/com/xantrix/webapp/exception/DeleteException.java

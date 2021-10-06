@@ -1,1 +1,4 @@
 com/xantrix/webapp/Application.class
+com/xantrix/webapp/exception/DeleteException.class
+com/xantrix/webapp/exception/UpdateException.class
+com/xantrix/webapp/exception/SaveException.class
