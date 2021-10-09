@@ -1,15 +1,15 @@
 package com.xantrix.webapp.controller.exception;
 
-public class NotFoundException extends Exception {
+public class ResourceNotFoundException extends Exception {
 	private static final long serialVersionUID = 1L;
 
 	private String messaggio = "Elemento Ricercato Non Trovato!";
 
-	public NotFoundException() {
+	public ResourceNotFoundException() {
 		super();
 	}
 
-	public NotFoundException(String Messaggio) {
+	public ResourceNotFoundException(String Messaggio) {
 		super(Messaggio);
 		this.messaggio = Messaggio;
 	}
